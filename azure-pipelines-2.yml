@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool: agpoolw
-  vmImage: ubuntu-latest
+#vmImage: ubuntu-latest
 
 steps:
 - task: Maven@3
